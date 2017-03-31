@@ -2,6 +2,7 @@
 
 **Alex Soto Méndez**  
 Analista de Sistemas 
+
 _alex.soto.29.9.88@gmail.com_  
 
 Participar en el proceso de selección que ofrece vuestra empresa con el objetivo de desempeñarme en un cargo que represente continuos desafíos personales y profesionales. Además aportar al máximo mi experiencia laboral y conocimientos obtenidos en el trayecto de mi crecimiento laboral.
