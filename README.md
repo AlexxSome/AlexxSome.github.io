@@ -1,83 +1,54 @@
-Curriculum vitae
+# Curriculum Vitae
 
-Alex Soto Méndez
-Analista de Sistemas
-alex.soto.29.9.88@gmail.com
+**Alex Soto Méndez**  
+Analista de Sistemas 
+_alex.soto.29.9.88@gmail.com_  
 
-Result oriented and hard working team player. Several years of proven experience in different fields. Always eager to generate business value and help customers achieve their goals.
+Participar en el proceso de selección que ofrece vuestra empresa con el objetivo de desempeñarme en un cargo que represente continuos desafíos personales y profesionales. Además aportar al máximo mi experiencia laboral y conocimientos obtenidos en el trayecto de mi crecimiento laboral.
 
-Programming Languages
+## Habilidades
 
-Java, Javascript, PHP, HTML, CSS, Bash, Clojure, Clojurescript, Scala, SQL, XML, C, C++, Groovy
+Java, PHP, HTML, SQL, XML, C++, Laravel, .Net, VMWare, Github, Linux, Redes.
 
-Technologies
+## Titulos
 
-React, CAF, JCR, Software AG Designer, OSGi, ehCache, Docker, SQL based Database Systems, Webmethods Server, Jquery, Zend, Application Server, Hibernate, JPA, Smartgwt, Linux / Unix, Grails, Akka, Apache Camel, Datomic, Jackson, REST, SOAP, Hiccup, Git, SVN
+•	Técnico medio en telecomunicaciones.
+•	Técnicas de administración y seguridad de servidores Linux.
+•	Técnicas de resolución de problemas en servidores Linux.
+•	CCNA: Conceptos y protocolos de enrutamiento.
+•	CCNA: LAN Switching y Wireless
+•	Oracle Certified Professional, Java SE Programmer.
 
-Methodologies
+## Educacion
 
-SCRUM, TDD
+* 2015 Instituto Profesional CIISA, Analisis de Sistemas.
+* 2012 - 2014 Universidad Andrés Bello, Ingeniería en Computación e Informática.
+* 2011 - 2011 Linux Latín América (Linuxcenter), Técnicas de Administración y Seguridad de Servidores Linux.
+* 2009 - 2010 Instituto Profesional CIISA, Administracion de redes computacionales.
 
-Fullstack
+## Intereses:
 
-I can and have taken part in any situation of an application lifecycle, whereas I am strongest in development.
+* Programacion en general
+* Servidores Linux
+* Conocimientos de Base de Datos
+* Deportes
+* Acuariofilia
 
-Gathering requirements
-Design
-Development
-Integration / System Testing
-Continuous Integration
-Deployment
-Server Management
-Support (Bugfixes, Fix Release Management)
-Customer Contact
-Interesting projects of mine on Github
 
-As I used github for a long time to collect ideas and stuff I may or may not work on, there is a lot of noise here, so if someone wants to see some working code look at this:
+## Personal
 
-OMTET Online Multiplayer Tetris - WIP Part of it is a tutorial for writing tetris in clojurescript with re-frame http://tales.sveri.de/tags/tetris.html
-CLOSP A Leiningen template for a full featured web framework within the clojure / clojurescript stack.
-CLOSP-CRUD A very basic CRUD generator for CLOSP.
-SIWF A user friendly webfrontend to the file system of a server.
-friend-ui This is a frontend to cemericks friend library. It uses enlive and twitter bootstrap as main technologies.
-PIX An online image viewer with a small set of functionality (albums and user management). I mainly did this as I found existing applications not sufficient enough for my needs or to feature rich.
-read-sensors An example project that reads files from file system and stores their content in a HTML file.
-ZFP A caching library we developed at Druck und Werte to speed up the web application we developed there.
-Employments
+Comuna:	            Santiago
+Estado Civil:       Soltero	
+Edad:               28 años
+Correo Electrónico: Alex.soto.29.9.88@gmail.com           
+Teléfono / Celular: +56 942896734
+Licencia:           Clase B, vehículo propio.
+ 	
+ 
 
-2011 – now: Senior Software Engineer at http://www.itcampus.eu/ in the Rules team where we work on the rules feature for the Software AG webMethods Suite: http://www.softwareag.com/de/products/wm/default.asp.
-2010 – 2011: Software Developer at http://druckundwerte.de where we developed a SaaS application in the printing business: http://zmuek.net.
-2000 – 2010: While I was studying I have been a part time worker for almost 10 years.
-Most of the time I was employed as a windows network administrator for a small windows business server environment at “planungsbüro helm und künzel gmbh”.
-Doing several jobs as a webdesigner for small events like marriages.
-Coding a bookmark manager in java and swing, using xml for data storage for fun.
-Coding a cash programm for a little cafe in C++ with windows MFC.
-Teaching
 
-As I am not only interested in constant improvement, but also in sharing knowledge, I started giving intern talks and courses.
 
-2014 – 2015
-2014 Lightning Talks: Bad – Worse – Complexity, Good – Better – Simplicity, Datomic
-2013 – 2014: Given internal Scala Course
-2013 Lightning Talks: Akka, Why functional Programming matters
-As a part of this I also started streaming from time to time to let others take part while I am coding: http://www.twitch.tv/sveri80.
 
-Education
 
-2003 - 2010 Studying computer science in Leipzig at http://www.htwk-leipzig.de/. Writing my diploma thesis about a multiusershopsystem in Plone.
-2001 - 2003 University of Leipzig
-2000 - 2001 Mainly self learning time while applying for psychology. This was the time where my interest in development grew so strong, that I instead decided to start studying computer science.
-1999 - 2000 Community Service
-1996 - 1999 High School Diploma
-Interests:
 
-Functional Programming in general
-Linux since the mid-90ies
-Database Knowledge
-Racing
-Classic Guitar
-Volleyball
-Poker
-Personal
 
-I was born in 1980 in Plauen, a nice and beautiful town in the former Eastern Germany. Currently I live in Leipzig (Germany), working for itCampus GmbH. My life is completed by a wonderful wife and a little on, which makes us a family of three.
