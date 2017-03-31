@@ -1,7 +1,7 @@
 # Curriculum Vitae
 
 **Alex Soto Méndez**  
-Analista de Sistemas 
+Estudiante de Analista de Sistemas 
 
 _alex.soto.29.9.88@gmail.com_  
 
