@@ -1,120 +1,83 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+Curriculum vitae
 
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Alex Soto Méndez
+Analista de Sistemas
+alex.soto.29.9.88@gmail.com
 
-<head>
-     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+Result oriented and hard working team player. Several years of proven experience in different fields. Always eager to generate business value and help customers achieve their goals.
 
-     <title>One Page Resume</title>
+Programming Languages
 
-     <style type="text/css">
-        * { margin: 0; padding: 0; }
-        body { font: 16px Helvetica, Sans-Serif; line-height: 24px; background: url(images/noise.jpg); }
-        .clear { clear: both; }
-        #page-wrap { width: 800px; margin: 40px auto 60px; }
-        #pic { float: right; margin: -30px 0 0 0; }
-        h1 { margin: 0 0 16px 0; padding: 0 0 16px 0; font-size: 42px; font-weight: bold; letter-spacing: -2px; border-bottom: 1px solid #999; }
-        h2 { font-size: 20px; margin: 0 0 6px 0; position: relative; }
-        h2 span { position: absolute; bottom: 0; right: 0; font-style: italic; font-family: Georgia, Serif; font-size: 16px; color: #999; font-weight: normal; }
-        p { margin: 0 0 16px 0; }
-        a { color: #999; text-decoration: none; border-bottom: 1px dotted #999; }
-        a:hover { border-bottom-style: solid; color: black; }
-        ul { margin: 0 0 32px 17px; }
-        #objective { width: 500px; float: left; }
-        #objective p { font-family: Georgia, Serif; font-style: italic; color: #666; }
-        dt { font-style: italic; font-weight: bold; font-size: 18px; text-align: right; padding: 0 26px 0 0; width: 150px; float: left; height: 100px; border-right: 1px solid #999;  }
-        dd { width: 600px; float: right; }
-        dd.clear { float: none; margin: 0; height: 15px; }
-     </style>
-</head>
+Java, Javascript, PHP, HTML, CSS, Bash, Clojure, Clojurescript, Scala, SQL, XML, C, C++, Groovy
 
-<body>
+Technologies
 
-    <div id="page-wrap">
-    
-        <img src="images/cthulu.png" alt="Photo of Cthulu" id="pic" />
-    
-        <div id="contact-info" class="vcard">
-        
-            <!-- Microformats! -->
-        
-            <h1 class="fn">C'thulhu</h1>
-        
-            <p>
-                Cell: <span class="tel">555-666-7777</span><br />
-                Email: <a class="email" href="mailto:greatoldone@lovecraft.com">greatoldone@lovecraft.com</a>
-            </p>
-        </div>
-                
-        <div id="objective">
-            <p>
-                I am an outgoing and energetic (ask anybody) young professional, seeking a 
-                career that fits my professional skills, personality, and murderous tendencies. 
-                My squid-like head is a masterful problem solver and inspires fear in who gaze upon it. 
-                I can bring world domination to your organization. 
-            </p>
-        </div>
-        
-        <div class="clear"></div>
-        
-        <dl>
-            <dd class="clear"></dd>
-            
-            <dt>Education</dt>
-            <dd>
-                <h2>Withering Madness University - Planet Vhoorl</h2>
-                <p><strong>Major:</strong> Public Relations<br />
-                   <strong>Minor:</strong> Scale Tending</p>
-            </dd>
-            
-            <dd class="clear"></dd>
-            
-            <dt>Skills</dt>
-            <dd>
-                <h2>Office skills</h2>
-                <p>Office and records management, database administration, event organization, customer support, travel coordination</p>
-                
-                <h2>Computer skills</h2>
-                <p>Microsoft productivity software (Word, Excel, etc), Adobe Creative Suite, Windows</p>
-            </dd>
-            
-            <dd class="clear"></dd>
-            
-            <dt>Experience</dt>
-            <dd>
-                <h2>Doomsday Cult <span>Leader/Overlord - Baton Rogue, LA - 1926-2010</span></h2>
-                <ul>
-                    <li>Inspired and won highest peasant death competition among servants</li>
-                    <li>Helped coordinate managers to grow cult following</li>
-                    <li>Provided untimely deaths to all who opposed</li>
-                </ul>
-                
-                <h2>The Watering Hole <span>Bartender/Server - Milwaukee, WI - 2009</span></h2>
-                <ul>
-                    <li>Worked on grass-roots promotional campaigns</li>
-                    <li>Reduced theft and property damage percentages</li>
-                    <li>Janitorial work, Laundry</li>
-                </ul> 
-            </dd>
-            
-            <dd class="clear"></dd>
-            
-            <dt>Hobbies</dt>
-            <dd>World Domination, Deep Sea Diving, Murder Most Foul</dd>
-            
-            <dd class="clear"></dd>
-            
-            <dt>References</dt>
-            <dd>Available on request</dd>
-            
-            <dd class="clear"></dd>
-        </dl>
-        
-        <div class="clear"></div>
-    
-    </div>
+React, CAF, JCR, Software AG Designer, OSGi, ehCache, Docker, SQL based Database Systems, Webmethods Server, Jquery, Zend, Application Server, Hibernate, JPA, Smartgwt, Linux / Unix, Grails, Akka, Apache Camel, Datomic, Jackson, REST, SOAP, Hiccup, Git, SVN
 
-</body>
+Methodologies
 
-</html>
+SCRUM, TDD
+
+Fullstack
+
+I can and have taken part in any situation of an application lifecycle, whereas I am strongest in development.
+
+Gathering requirements
+Design
+Development
+Integration / System Testing
+Continuous Integration
+Deployment
+Server Management
+Support (Bugfixes, Fix Release Management)
+Customer Contact
+Interesting projects of mine on Github
+
+As I used github for a long time to collect ideas and stuff I may or may not work on, there is a lot of noise here, so if someone wants to see some working code look at this:
+
+OMTET Online Multiplayer Tetris - WIP Part of it is a tutorial for writing tetris in clojurescript with re-frame http://tales.sveri.de/tags/tetris.html
+CLOSP A Leiningen template for a full featured web framework within the clojure / clojurescript stack.
+CLOSP-CRUD A very basic CRUD generator for CLOSP.
+SIWF A user friendly webfrontend to the file system of a server.
+friend-ui This is a frontend to cemericks friend library. It uses enlive and twitter bootstrap as main technologies.
+PIX An online image viewer with a small set of functionality (albums and user management). I mainly did this as I found existing applications not sufficient enough for my needs or to feature rich.
+read-sensors An example project that reads files from file system and stores their content in a HTML file.
+ZFP A caching library we developed at Druck und Werte to speed up the web application we developed there.
+Employments
+
+2011 – now: Senior Software Engineer at http://www.itcampus.eu/ in the Rules team where we work on the rules feature for the Software AG webMethods Suite: http://www.softwareag.com/de/products/wm/default.asp.
+2010 – 2011: Software Developer at http://druckundwerte.de where we developed a SaaS application in the printing business: http://zmuek.net.
+2000 – 2010: While I was studying I have been a part time worker for almost 10 years.
+Most of the time I was employed as a windows network administrator for a small windows business server environment at “planungsbüro helm und künzel gmbh”.
+Doing several jobs as a webdesigner for small events like marriages.
+Coding a bookmark manager in java and swing, using xml for data storage for fun.
+Coding a cash programm for a little cafe in C++ with windows MFC.
+Teaching
+
+As I am not only interested in constant improvement, but also in sharing knowledge, I started giving intern talks and courses.
+
+2014 – 2015
+2014 Lightning Talks: Bad – Worse – Complexity, Good – Better – Simplicity, Datomic
+2013 – 2014: Given internal Scala Course
+2013 Lightning Talks: Akka, Why functional Programming matters
+As a part of this I also started streaming from time to time to let others take part while I am coding: http://www.twitch.tv/sveri80.
+
+Education
+
+2003 - 2010 Studying computer science in Leipzig at http://www.htwk-leipzig.de/. Writing my diploma thesis about a multiusershopsystem in Plone.
+2001 - 2003 University of Leipzig
+2000 - 2001 Mainly self learning time while applying for psychology. This was the time where my interest in development grew so strong, that I instead decided to start studying computer science.
+1999 - 2000 Community Service
+1996 - 1999 High School Diploma
+Interests:
+
+Functional Programming in general
+Linux since the mid-90ies
+Database Knowledge
+Racing
+Classic Guitar
+Volleyball
+Poker
+Personal
+
+I was born in 1980 in Plauen, a nice and beautiful town in the former Eastern Germany. Currently I live in Leipzig (Germany), working for itCampus GmbH. My life is completed by a wonderful wife and a little on, which makes us a family of three.
