@@ -2,7 +2,6 @@
 
 **Alex Soto Méndez**  
 Estudiante de Analista de Sistemas 
-
 _alex.soto.29.9.88@gmail.com_  
 
 Participar en el proceso de selección que ofrece vuestra empresa con el objetivo de desempeñarme en un cargo que represente continuos desafíos personales y profesionales. Además aportar al máximo mi experiencia laboral y conocimientos obtenidos en el trayecto de mi crecimiento laboral.
@@ -13,12 +12,12 @@ Java, PHP, HTML, SQL, XML, C++, Laravel, .Net, VMWare, Github, Linux, Redes.
 
 ## Titulos
 
-•	Técnico medio en telecomunicaciones.
-•	Técnicas de administración y seguridad de servidores Linux.
-•	Técnicas de resolución de problemas en servidores Linux.
-•	CCNA: Conceptos y protocolos de enrutamiento.
-•	CCNA: LAN Switching y Wireless
-•	Oracle Certified Professional, Java SE Programmer.
+*	Técnico medio en telecomunicaciones.
+*	Técnicas de administración y seguridad de servidores Linux.
+*	Técnicas de resolución de problemas en servidores Linux.
+*	CCNA: Conceptos y protocolos de enrutamiento.
+*	CCNA: LAN Switching y Wireless
+*	Oracle Certified Professional, Java SE Programmer.
 
 ## Educacion
 
@@ -38,12 +37,12 @@ Java, PHP, HTML, SQL, XML, C++, Laravel, .Net, VMWare, Github, Linux, Redes.
 
 ## Personal
 
-Comuna:	            Santiago
-Estado Civil:       Soltero	
-Edad:               28 años
-Correo Electrónico: Alex.soto.29.9.88@gmail.com           
-Teléfono / Celular: +56 942896734
-Licencia:           Clase B, vehículo propio.
+* Comuna:	            Santiago
+* Estado Civil:       Soltero	
+* Edad:               28 años
+* Correo Electrónico: _alex.soto.29.9.88@gmail.com_         
+* Teléfono / Celular: +56 942896734
+* Licencia:           Clase B, vehículo propio.
  	
  
 
