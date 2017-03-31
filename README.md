@@ -2,7 +2,7 @@
 
 **Alex Soto Méndez**  
 Analista de Sistemas.
-Correo:_alex.soto.29.9.88@gmail.com_  
+_alex.soto.29.9.88@gmail.com_  
 
 Mi objetivo profesional es participar en el proceso de selección, con el objetivo de desempeñarme en un cargo que represente continuos desafíos personales y profesionales. Además aportar al máximo mi experiencia laboral y conocimientos obtenidos en el trayecto de mi crecimiento laboral.
 
