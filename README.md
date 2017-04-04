@@ -8,7 +8,7 @@ Mi objetivo profesional es participar en el proceso de selección, con el objeti
 
 ## Habilidades
 
-Java, PHP, HTML, SQL, XML, C++, Laravel, .Net, VMWare, Github, Linux, Redes.
+Java, PHP, HTML 5, SQL, CSS 3,XML, C++, Laravel, .Net, VMWare, Github, Linux, Redes.
 
 ## Titulos
 
