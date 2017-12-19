@@ -8,7 +8,7 @@ Mi objetivo profesional es participar en el proceso de selección, con el objeti
 
 ## Habilidades
 
-Java (JSE,JEE), PHP,HTML 5, JavaScript, JQuery, SQL, CSS, Laravel, .Net, App Moviles (android), VMWare, Cpanel, Linux, Redes.
+Java (JSE,JEE), PHP,HTML 5, JavaScript, JQuery, SQL, CSS, Laravel, .Net, App Moviles (android,Firebase), VMWare, Cpanel, Linux, Redes.
 
 ## Titulos
 
@@ -40,7 +40,7 @@ Java (JSE,JEE), PHP,HTML 5, JavaScript, JQuery, SQL, CSS, Laravel, .Net, App Mov
 
 * Comuna:	            Santiago
 * Estado Civil:       Soltero	
-* Edad:               28 años
+* Edad:               29 años
 * Correo Electrónico: _alex.soto.29.9.88@gmail.com_         
 * Teléfono / Celular: +56 942896734
 * Licencia:           Clase B, vehículo propio.
