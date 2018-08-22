@@ -29,7 +29,7 @@ Java (JSE,JEE), PHP,HTML 5, JavaScript, JQuery, Spring, MVC, Web Services (SOAP,
 ## Intereses:
 
 * Programación en general
-* Crecmiento Profesional
+* Crecimiento Profesional
 * Servidores Linux
 * Conocimientos de Base de Datos
 * Seguridad Informática
