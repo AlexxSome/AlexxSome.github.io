@@ -8,7 +8,7 @@ Mi objetivo profesional es participar en el proceso de selección, con el objeti
 
 ## Habilidades
 
-Java (JSE,JEE), PHP,HTML 5, JavaScript, JQuery, SQL, CSS, Laravel, .Net, App Moviles (android,Firebase), VMWare, Cpanel, Linux, Redes.
+Java (JSE,JEE), PHP,HTML 5, JavaScript, JQuery, Spring, MVC, Web Services (SOAP, REST), SQL, CSS, Laravel, .Net, App Moviles (android,Firebase), VMWare, Cpanel, Linux, Redes.
 
 ## Titulos
 
@@ -21,14 +21,15 @@ Java (JSE,JEE), PHP,HTML 5, JavaScript, JQuery, SQL, CSS, Laravel, .Net, App Mov
 
 ## Educacion
 
-* 2015 Instituto Profesional CIISA, Analisis de Sistemas.
-* 2012 - 2014 Universidad Andrés Bello, Ingeniería en Computación e Informática.
+* 2015 - 2017 Instituto Profesional CIISA, Analisis de Sistemas.
+* 2012 - 2014 Universidad Andrés Bello, Ingeniería en Computación e Informática (incompleto).
 * 2011 - 2011 Linux Latín América (Linuxcenter), Técnicas de Administración y Seguridad de Servidores Linux.
 * 2009 - 2010 Instituto Profesional CIISA, Administracion de redes computacionales.
 
 ## Intereses:
 
 * Programación en general
+* Crecmiento Profesional
 * Servidores Linux
 * Conocimientos de Base de Datos
 * Seguridad Informática
