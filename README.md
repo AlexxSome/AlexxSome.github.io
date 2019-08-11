@@ -4,11 +4,11 @@
 Programador.                                                                                          
 _alex.soto.29.9.88@gmail.com_  
 
-Mi objetivo profesional es participar en el proceso de selección, con el objetivo de desempeñarme en un cargo que represente continuos desafíos personales y profesionales. Además aportar al máximo mi experiencia laboral y conocimientos obtenidos en el trayecto de mi crecimiento laboral.
+Mi objetivo profesional, es constribuir con mis conocimientos para aportar al máximo mi experiencia laboral y conocimientos obtenidos en el trayecto de mi carrera profesional, con el objetivo de desempeñarme en un cargo que represente continuos desafíos personales y profesionales.
 
 ## Habilidades
 
-Java (JSE,JEE), EJB (Enterprise JavaBeans), Hibernate (HQL, OGM), DAO, Maven, servidores de aplicación (Tomcat, Glassfish, Jboss), PHP,HTML 5, JavaScript, JQuery, Spring Boot, MVC, Web Services (SOAP, REST, RestFull), SQL, CSS, Laravel, .Net, App Moviles (android,Firebase), VMWare, Cpanel, Linux, Redes.
+Java (JSE,JEE), EJB (Enterprise JavaBeans), Hibernate (HQL, OGM), Spring Boot, Spring MVC, Spring Security, Patrones de diseño DTO y DAO, MVC, servidores de aplicación (Tomcat, Jboss, Glassfish), HTML 5, JavaScript, Dart, JQuery, Web Services, SQL, CSS, App Moviles (android,Firebase, flutter), VMWare, Cpanel, Linux (Centos, Debian y derivados), Redes, construcción de API's.
 
 ## Titulos
 
@@ -21,7 +21,7 @@ Java (JSE,JEE), EJB (Enterprise JavaBeans), Hibernate (HQL, OGM), DAO, Maven, se
 
 ## Educacion
 
-* 2015 - 2017 Instituto Profesional CIISA, Analisis de Sistemas.
+* 2015 - 2017 Instituto Profesional CIISA, Programacion Computacional.
 * 2012 - 2014 Universidad Andrés Bello, Ingeniería en Computación e Informática (incompleto).
 * 2011 - 2011 Linux Latín América (Linuxcenter), Técnicas de Administración y Seguridad de Servidores Linux.
 * 2009 - 2010 Instituto Profesional CIISA, Administracion de redes computacionales.
@@ -31,8 +31,9 @@ Java (JSE,JEE), EJB (Enterprise JavaBeans), Hibernate (HQL, OGM), DAO, Maven, se
 * Programación en general
 * Crecimiento Profesional
 * Servidores Linux
-* Conocimientos de Base de Datos
+* Conocimientos de Aplicaciones Móviles
 * Seguridad Informática
+* Aprender temas nuevos (profesionales o particulares)
 * Deportes
 * Acuariofilia
 
