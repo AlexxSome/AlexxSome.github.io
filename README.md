@@ -1,7 +1,7 @@
 # Curriculum Vitae
 
 **Alex Soto Méndez**  
-Programador.                                                                                          
+Desarrollador Java.                                                                                          
 _alex.soto.29.9.88@gmail.com_  
 
 Mi objetivo profesional, es constribuir con mis conocimientos para aportar al máximo mi experiencia laboral y conocimientos obtenidos en el trayecto de mi carrera profesional, con el objetivo de desempeñarme en un cargo que represente continuos desafíos personales y profesionales.
