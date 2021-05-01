@@ -1,14 +1,14 @@
 # Curriculum Vitae
 
 **Alex Soto Méndez**  
-Desarrollador Java.                                                                                          
+Desarrollador FullStack (Java, React).                                                                                          
 _alex.soto.29.9.88@gmail.com_  
 
-Mi objetivo profesional, es constribuir con mis conocimientos para aportar al máximo mi experiencia laboral y conocimientos obtenidos en el trayecto de mi carrera profesional, con el objetivo de desempeñarme en un cargo que represente continuos desafíos personales y profesionales.
+Mi objetivo profesional, es constribuir con mis conocimientos para aportar al máximo mi experiencia y conocimientos obtenidos en el trayecto de mi carrera profesional, con el objetivo de desempeñarme en un cargo que represente continuos desafíos personales y profesionales.
 
 ## Habilidades
 
-Java (JSE,JEE), EJB (Enterprise JavaBeans), Hibernate (HQL, OGM), Spring Boot, Spring MVC, Spring Security, Patrones de diseño DTO y DAO, MVC, servidores de aplicación (Tomcat, Jboss, Glassfish), HTML 5, JavaScript, Dart, JQuery, Web Services, SQL, CSS, App Moviles (android,Firebase, flutter), VMWare, Cpanel, Linux (Centos, Debian y derivados), Redes, construcción de API's.
+Java (JSE,JEE), EJB (Enterprise JavaBeans), Hibernate (HQL, OGM), Spring Boot, Spring MVC, Spring Security, Patrones de diseño DTO y DAO, MVC, servidores de aplicación (Tomcat, Jboss, Glassfish), HTML 5, JavaScript, React, Dart, JQuery, Web Services, SQL, CSS, App Moviles (android,Firebase, flutter), Docker, VMWare, Linux (Centos, Debian y derivados), Integración continua (Gitlab, Jenkins), Metodologias Ágiles (Scrum, Kanban), Control de versiones (github, bitbucket, SVN, TFS)  Redes, construcción de API's.
 
 ## Titulos
 
@@ -41,8 +41,7 @@ Java (JSE,JEE), EJB (Enterprise JavaBeans), Hibernate (HQL, OGM), Spring Boot, S
 ## Personal
 
 * Comuna:	            Santiago
-* Estado Civil:       Soltero	
-* Edad:               30 años
+* Edad:               32 años
 * Correo Electrónico: _alex.soto.29.9.88@gmail.com_         
 * Teléfono / Celular: +56 942896734
 * Licencia:           Clase B, vehículo propio.
