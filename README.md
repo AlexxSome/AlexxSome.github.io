@@ -8,7 +8,7 @@ Mi objetivo profesional, es constribuir con mis conocimientos para aportar al m�
 
 ## Habilidades
 
-Java (JSE,JEE), EJB (Enterprise JavaBeans), Hibernate (HQL, OGM), Spring Boot, Spring MVC, Spring Security, Patrones de diseño DTO y DAO, MVC, servidores de aplicación (Tomcat, Jboss, Glassfish), HTML 5, JavaScript, React, Dart, JQuery, Web Services, SQL, CSS, App Moviles (android,Firebase, flutter), Docker, VMWare, Linux (Centos, Debian y derivados), Integración continua (Gitlab, Jenkins), Metodologias Ágiles (Scrum, Kanban), Control de versiones (github, bitbucket, SVN, TFS)  Redes, construcción de API's.
+Java (JSE,JEE), EJB (Enterprise JavaBeans), Hibernate (HQL, OGM), Spring Boot, Spring MVC, Spring Security, Patrones de diseño DTO y DAO, MVC, servidores de aplicación (Tomcat, Jboss, Glassfish), HTML 5, JavaScript, React, Dart, JQuery, Web Services, SQL, CSS, App Moviles (android,Firebase, flutter), Base de datos (Oracle 12c, PostgreSQL, MySQL, MongoDB) Docker, VMWare, Linux (Centos, Debian y derivados), Integración continua (Gitlab, Jenkins), Metodologias Ágiles (Scrum, Kanban), Control de versiones (github, bitbucket, SVN, TFS)  Redes, construcción de API's.
 
 ## Titulos
 
